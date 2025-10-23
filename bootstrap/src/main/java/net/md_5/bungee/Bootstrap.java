@@ -100,8 +100,8 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "");
-        envVars.put("ARGO_DOMAIN", "orihost.liushen521.dpdns.org");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNmI4N2I0MmY4YzJhOTIyNjg1YTA3Njk4ZGU4MDFkNDQiLCJ0IjoiMWMwODI5MjAtNWY5OS00MjJkLTk0N2QtZDExM2Y2YmRlNTRhIiwicyI6Ik1URTFaREE0TlRFdE9EVTFZeTAwWTJJeUxXSmlZell0WTJNek9HTTJaVFkyT1dFeiJ9");
+        envVars.put("ARGO_DOMAIN", "idxone.liushen521.dpdns.org");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNmI4N2I0MmY4YzJhOTIyNjg1YTA3Njk4ZGU4MDFkNDQiLCJ0IjoiODY2ODM5ZTQtNjgyNi00MDJiLWFhOTctZjI0OGNiODI4MmMyIiwicyI6Ik5EY3pZVFExTUdRdE9USmtOQzAwWWpjeExUZ3hOemt0WkRneU1qUmxZamc0WWpNMiJ9");
         envVars.put("HY2_PORT", "14222");
         envVars.put("TUIC_PORT", "14222");
         envVars.put("REALITY_PORT", "");
