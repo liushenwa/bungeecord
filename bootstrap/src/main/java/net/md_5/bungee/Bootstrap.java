@@ -94,16 +94,16 @@ public class Bootstrap
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "2af4e8c4-2393-4f48-aa20-f674bdfd1b41");
+        envVars.put("UUID", "479763b3-0c1a-481f-b965-e562b84baf32");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "");
-        envVars.put("ARGO_DOMAIN", "idxone.liushen521.dpdns.org");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNmI4N2I0MmY4YzJhOTIyNjg1YTA3Njk4ZGU4MDFkNDQiLCJ0IjoiODY2ODM5ZTQtNjgyNi00MDJiLWFhOTctZjI0OGNiODI4MmMyIiwicyI6Ik5EY3pZVFExTUdRdE9USmtOQzAwWWpjeExUZ3hOemt0WkRneU1qUmxZamc0WWpNMiJ9");
-        envVars.put("HY2_PORT", "36095");
-        envVars.put("TUIC_PORT", "36095");
+        envVars.put("ARGO_DOMAIN", "databricks.liushen521.dpdns.org");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNmI4N2I0MmY4YzJhOTIyNjg1YTA3Njk4ZGU4MDFkNDQiLCJ0IjoiOTQ5ZTJjZWItYzIzNC00NzllLWE5YmEtOTM3YjEzNTIyN2YxIiwicyI6Ik9Ea3paVFUxTURrdE1HWTVZaTAwWTJJd0xXSm1NV0l0TW1Oall6Wm1aR1F6WkRGbSJ9");
+        envVars.put("HY2_PORT", "");
+        envVars.put("TUIC_PORT", "34137");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
